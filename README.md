@@ -1,8 +1,8 @@
-# Generated stories with twist choice 
+# Generated stories with twist choice
 
-![](C:\Users\Bohdan\PycharmProjects\twitter_stories\arch1.png)
+![](arch1.png)
 
-![](C:\Users\Bohdan\PycharmProjects\twitter_stories\arch2.png)
+![](arch2.png)
 
 
 ### Features:
