@@ -1,9 +1,7 @@
-import json
-
 import pytest
 from unittest import mock
 
-from api.models import StoryManager
+from src.api.models import StoryManager
 from src.implementation.text_generator.openai import TextGenerator
 
 
