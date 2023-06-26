@@ -1,4 +1,5 @@
 # Generated stories with twist choice
+[![Python application](https://github.com/stPhoenix/twitter_stories/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/stPhoenix/twitter_stories/actions/workflows/python-app.yml)
 
 ![](arch1.png)
 
